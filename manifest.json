@@ -1,0 +1,19 @@
+{
+  "name": "Royal Game",
+  "short_name": "Royal Game",
+  "theme_color": "",
+  "background_color": "#2B1052",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764759021-favicon-3.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

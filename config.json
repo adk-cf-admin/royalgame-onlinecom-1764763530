@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#2B1052",
+            "lang-select-color": "#222829",
+            "bg-light": "#150533",
+            "welcome-bonus-bg": "#2B1052",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#140727",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#150533",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#e4bb49",
+            "yellow": "#02C100",
+            "yellow-button": "#e4bb49",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#2B1052",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#2B1052",
+            "faq-label": "#2B1052",
+            "bg-footer": "#2B1052",
+            "copyright": "#e7e7d5",
+            "starColor": "#02C100",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Royal Game",
+            "title": "Royal Game Casino | Online Casino with Bonuses, Fast Payouts & Security",
+            "description": "Play at Royal Game Casino online! Slots, roulette, poker, live games, generous bonuses, and fast withdrawals. Licensed, secure, and 24\/7 support.\n",
+            "canonical": "royalgame-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/836",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "royalgame-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/837",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/838"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/840",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Royal Game Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Royal Game Casino \u2014 Online Gambling with Big Bonuses",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/834",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/835",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games",
+                "Generous welcome bonuses and promotions",
+                "Fast and secure withdrawals",
+                "Mobile-friendly platform and dedicated app",
+                "Licensed and player data protection",
+                "Loyalty program with VIP benefits",
+                "24\/7 customer support service"
+            ],
+            "advantagesAfterText": "Royal Game offers a rich gaming experience with strong security, attractive bonuses, and seamless access across all devices.\n",
+            "knowMore": "Know more",
+            "appTitle": "Royal Game App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/841",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Royal Game App",
+            "mobileGooglePlayImageTitle": "Royal Game App",
+            "mobileIosImageTitle": "Royal Game App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Royal Game",
+                "description1": "",
+                "items": [
+                    "Bonus up to 300% on deposit",
+                    "Jackpots up to \u20ac6,000,000",
+                    "Cashback up to 20% weekly"
+                ],
+                "description2": "Royal Game is a modern online gaming platform. The casino offers a wide range of slots and table games. Live dealer games are available for an authentic experience. Users enjoy a smooth interface and easy navigation. The platform ensures secure transactions and data protection. Players benefit from regular bonuses and promotions. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/842",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "A loyalty program adds extra value to gameplay. The casino is optimized for mobile devices and apps. Customer support is available 24\/7. Royal Game combines comfort, reliability, and entertainment variety."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Royal Game \u2014 your gateway to online entertainment",
+                "description": "<p>\nRoyal Game is a modern online casino designed for players who value comfort, security, and variety. The platform combines the best traditions of gambling with innovative technologies, offering a unique experience. From classic slots to live dealer games, there is something for everyone.\n\n<\/p>\n<br>\n<p>\nOne of the main advantages of Royal Game is convenience and accessibility. The casino is fully optimized for all devices, including smartphones and tablets. This means players can enjoy their favorite games anytime, anywhere, without compromising on graphics or performance.\n\n<\/p>\n<br>\n<p>\nSecurity and reliability are top priorities. All transactions are protected by advanced encryption technologies, and player data is kept safe. The platform operates under a valid license, ensuring fairness and transparency in every game.\n\n<\/p>\n<br>\n<p>\nRoyal Game also impresses with generous bonuses and regular promotions. A loyalty program adds extra value, while special offers increase the chances of big wins. This casino is built for those who want to maximize both fun and rewards.\n\n<\/p>\n<br>\n<p>\nIn short, Royal Game combines comfort, trust, and excitement. It\u2019s the perfect place for anyone looking to experience the thrill of gaming in a secure and user-friendly environment.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Supported Currencies at Royal Game\n\n<\/h3>\n\n<p>\nRoyal Game offers players convenient and secure options for deposits and withdrawals. The platform supports a wide range of payment methods, including bank cards, e-wallets, and modern online payment solutions. Among the most popular choices are Visa and Mastercard, ensuring reliability and simplicity for transactions. For those who prefer digital solutions, Apple Pay and Google Pay are available, along with leading e-wallet services.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrency payments, which are increasingly popular among players. Using cryptocurrencies allows for fast transactions with minimal fees while maintaining a high level of privacy. This makes Royal Game an attractive choice for users who value innovative financial solutions.\n\n<\/p>\n<br>\n<p>\nThe casino supports multiple currencies to provide comfort for players worldwide. Available options include euros, US dollars, British pounds, and Canadian dollars. This flexibility helps avoid unnecessary conversion costs and makes the gaming experience as smooth as possible.\n\n<\/p>\n<br>\n<p>\nRoyal Game aims to deliver not only a variety of games but also convenience in financial operations. All transactions are processed through secure channels, and advanced encryption ensures data protection. This allows players to focus on enjoying the game without worrying about transaction safety.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for visiting the Royal Game Casino: conditions and prohibitions\n<\/h3>\n\n<p>\nRoyal Game Casino follows strict rules to ensure safety and comfort for all players. The primary requirement is meeting the minimum age set by local laws. Every user must complete registration and verify their identity. This process helps prevent fraud and protects personal data.\n\n<\/p>\n<br>\n<p>\nPlayers are required to use their own payment methods and provide accurate information. Creating multiple accounts or sharing access with third parties is prohibited. The casino does not allow the use of external software to gain an advantage. Any attempt at fraud or game manipulation is strictly forbidden.\n\n<\/p>\n<br>\n<p>\nRoyal Game promotes responsible gambling, so players must respect set limits and adhere to fair play rules. Violating these conditions may result in account suspension and forfeiture of winnings.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions for Access\n<\/h4>\n            <ul>\n            <li>\u2022 \nMeet the legal age requirement\n\n<\/li>\n            <li>\u2022 \nComplete registration and identity verification\n\n<\/li>\n            <li>\u2022 \nUse personal payment details only\n\n\n<\/li>\n  \n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibited\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts\n\n<\/li>\n            <li>\u2022 \nSharing account access with others\n\n<\/li>\n       <li>\u2022 \nUsing external programs or bots\n\n<\/li>\n            <li>\u2022 \nAttempting fraud or manipulation\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at Royal Game\n\n<\/h3>\n\n<p>\nRoyal Game operates under strict international standards, ensuring fairness and transparency for all players. The casino holds a valid license issued by a reputable regulator, confirming its legality and compliance with industry requirements. This license guarantees adherence to responsible gambling practices and protection of user interests.\n\n<\/p>\n<br>\n<p>\nData security is a top priority. All personal information and financial transactions are processed through secure channels using advanced encryption technologies. The platform employs SSL protocols to prevent unauthorized access to sensitive data. This means players\u2019 information is fully protected against potential threats.\n\n<\/p>\n<br>\n<p>\nAdditionally, Royal Game follows a strict privacy policy. All data is used solely to provide services and is never shared with third parties without user consent. The casino regularly updates its security systems to meet the latest standards and requirements.\n\n<\/p>\n<br>\n<p>\nIn short, Royal Game offers maximum protection and transparency, allowing players to enjoy their gaming experience without worrying about the safety of their personal information.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoyal Game Customer Support: Fast and Reliable\n\n<\/h3>\n\n<p>\nRoyal Game places great emphasis on customer service quality, offering several convenient communication channels. Players can contact support via live chat, email, or phone. The live chat is available directly on the website and provides instant responses to most inquiries. Email is ideal for detailed requests, while the phone line is perfect for urgent issues.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the channel, but live chat usually replies within minutes, and email within a few hours. The service quality is rated highly: support agents are professional, polite, and ready to assist with any questions related to gaming, payments, or technical issues.\n\n<\/p>\n<br>\n<p>\nAnother advantage is multilingual support, making Royal Game accessible to players worldwide. The support team operates 24\/7, ensuring help is available whenever needed.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat \u2014 instant real-time responses\n\n<\/li>\n            <li>\u2022 \nEmail \u2014 for detailed inquiries and documents\n\n<\/li>\n            <li>\u2022 \nPhone \u2014 quick assistance for complex cases\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Service Features\n<\/h4>\n        <ul>\n            <li>\u2022 \n24\/7 availability\n\n<\/li>\n            <li>\u2022 \nMultilingual support\n\n<\/li>\n       <li>\u2022 \nProfessional and friendly assistance\n\n\n<\/li>\n    \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Royal Game",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoyal Game Loyalty Program: Maximum Benefits for Players\n\n<\/h3>\n\n<p>\nThe Royal Game loyalty program is designed to reward active players and make gaming even more profitable. It offers exclusive bonuses, higher limits, and personalized service for participants. Joining the program unlocks access to special promotions, cashback, and additional privileges.\n\n<\/p>\n<br>\n<p>\nRegistration is simple and available to every registered casino user. Once activated, players start earning points for bets and activity on the platform. These points determine the loyalty level, and the higher the level, the greater the benefits.\n\n<\/p>\n<br>\n<p>\nThe program includes several tiers, starting from the basic level and reaching VIP status. Each tier brings new opportunities: increased deposit bonuses, free spins, cashback, and personalized offers. VIP players enjoy access to exclusive tournaments and a dedicated account manager.\n\n<\/p>\n<br>\n<p>\nIn short, the Royal Game loyalty program is a way to boost your chances of winning and enjoy the ultimate gaming experience.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nBe a registered Royal Game user\n\n<\/li>\n            <li>\u2022 \nActivate participation via your account settings\n\n<\/li>\n            <li>\u2022 \nStart earning points through bets\n\n\n<\/li>\n\n  \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic: available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver: achieved by collecting a set number of points\n\n<\/li>\n            <li>\u2022 \nGold: requires active play and regular deposits\n\n<\/li>\n           <li>\u2022 \nVIP: by invitation for the most active players\n\n\n<\/li>\n       \n\n  \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Privileges\n<\/h4>\n        <ul>\n            <li>\u2022 \nDeposit bonuses up to 150%\n\n<\/li>\n            <li>\u2022 \nWeekly cashback up to 20%\n\n<\/li>\n       <li>\u2022 \nFree spins on popular slots\n\n<\/li>\n            <li>\u2022 \nExclusive tournaments with big prizes\n\n<\/li>\n             <li>\u2022 \nPersonal account manager for VIP players\n\n<\/li> \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoyal Game Bonuses and Special Offers: Maximum Fun and Big Wins\n\n<\/h3>\n\n<p>\nRoyal Game provides a wide range of bonuses and special offers that make gaming even more exciting. In addition to standard welcome bonuses, the platform regularly hosts promotions, tournaments, and seasonal events. These offers increase the chances of big wins and add extra value to gameplay.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy deposit bonuses, free spins, and cashback rewards. There are also themed promotions tied to holidays and major events. Special tournaments with large prize pools allow players to compete and win significant amounts.\n\n<\/p>\n<br>\n<p>\nRoyal Game also offers exclusive deals for active users, including boosted odds and extra prizes. All bonuses come with clear terms, ensuring a fair and enjoyable experience.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: up to 300% on first deposit + free spins\n\n<\/li>\n            <li>\u2022 \nWeekly Cashback: up to 20% of lost funds\n\n<\/li>\n            <li>\u2022 \nDeposit Bonuses: extra funds on account top-ups\n\n<\/li>\n            <li>\u2022 \nFree Spins: on popular slots during promotions\n\n<\/li>\n\t    <li>\u2022 \nTournaments: prize pools up to \u20ac6,000,000\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Events: themed promotions with exclusive prizes\n\n<\/li>\n\t    <li>\u2022 \nSpecial Deals: boosted odds and unique bonuses for active players\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Royal Game: Top Entertainment for Players\n\n<\/h3>\n\n<p>\nRoyal Game offers a vast selection of games to suit every taste. The core of the catalog includes slots from leading global providers, featuring both classic machines and modern video slots with bonus features. Among the most popular are legendary Egyptian-themed games, fruit slots, and new releases with progressive jackpots.\n\n<\/p>\n<br>\n<p>\nIn addition to slots, the platform provides table games such as roulette, blackjack, and poker, available in both standard versions and Live Casino formats with real dealers. Fans of live interaction will appreciate the authentic casino atmosphere from the comfort of home.\n\n<\/p>\n<br>\n<p>\nFor those seeking fast-paced excitement, game shows and instant-win games are also available. All entertainment options come with high-quality graphics, user-friendly interfaces, and top-level security.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Slots\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Ra Deluxe \u2014 iconic Egyptian-themed slot with bonus rounds.\n\n<\/li>\n            <li>\u2022 \nLucky Lady\u2019s Charm \u2014 classic slot with multipliers and free spins.\n\n<\/li>\n            <li>\u2022 \nSizzling Hot Deluxe \u2014 fruit slot with simple rules and big wins.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza \u2014 vibrant video slot with cascading wins and multipliers.\n\n<\/li>\n\t    <li>\u2022 \nLegacy of Dead \u2014 high-potential slot with free spin features.\n\n\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTable Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nRoulette \u2014 European, American, and French versions.\n\n<\/li>\n            <li>\u2022 \nBlackjack \u2014 classic and multi-hand formats.\n\n<\/li>\n            <li>\u2022 \nPoker \u2014 Texas Hold\u2019em, Caribbean Stud, and more.\n\n\n<\/li>\n   \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLive Casino\n<\/h4>\n\n <ul>\n            <li>\u2022 \nLive Roulette \u2014 real dealers and HD streaming.\n\n<\/li>\n            <li>\u2022 \nLive Blackjack \u2014 interactive format with instant bets.\n\n<\/li>\n            <li>\u2022 \nLive Poker \u2014 professional croupiers and authentic casino feel.\n\n\n<\/li>\n    \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Royal Game Casino\n\n<\/h3>\n\n<p> \nRoyal Game offers flexible betting limits so every player can choose a comfortable level of play. Minimum bets are perfect for beginners, while maximum bets cater to high rollers seeking big wins. Limits vary depending on the game type: slots, table games, and Live Casino have different ranges.\n\n<\/p><br>\n<p> \nRoyal Game ensures transparent conditions and convenience for players of all budgets. Whether you prefer small stakes or high-risk bets, the platform offers the perfect options.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#E4BB49; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac15,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Royal Game: The Real Casino Experience Online\n\n<\/h3>\n\n<p>\nRoyal Game is more than just an online casino; it\u2019s a full entertainment platform where everyone can find something exciting. In addition to standard games, the site regularly hosts special events and shows that create a festive atmosphere. These events allow players not only to enjoy the thrill of gaming but also to participate in unique activities with big prizes.\n\n<\/p>\n<br>\n<p>\nThemed promotions and seasonal events play a major role. They are tied to holidays, sports events, and other significant dates. During these campaigns, players gain access to exclusive bonuses, free spins, and prize draws. It\u2019s a great way to boost winning chances and add variety to the gaming experience.\n\n<\/p>\n<br>\n<p>\nTournaments and game shows are equally popular. Tournaments let players compete for impressive prize pools, while live game shows with hosts recreate the vibe of a real casino. These activities are available in Live format, making the experience as realistic and engaging as possible.\n\n<\/p>\n<br>\n<p>\nRoyal Game also offers special VIP events for its most active players. These include private tournaments, exclusive prize draws, and personalized offers that highlight player status and provide unique privileges.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll Events and Entertainment\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed Promotions \u2014 holiday-based offers with bonuses and free spins.\n\n<\/li>\n            <li>\u2022 \nSeasonal Events \u2014 special deals for New Year, Halloween, summer campaigns.\n\n<\/li>\n            <li>\u2022 \nTournaments \u2014 competitions with prize pools up to \u20ac6,000,000.\n\n<\/li>\n            <li>\u2022 \nGame Shows \u2014 live-hosted events with instant wins.\n\n<\/li>\n\t    <li>\u2022 \nExclusive Draws \u2014 extra prizes for active players.\n\n<\/li>\n\t    <li>\u2022 \nVIP Events \u2014 private tournaments and personalized bonuses for loyalty members.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Royal Game\n\n<\/h3>\n\n<p>\nRoyal Game offers convenient and secure withdrawal options, ensuring transparent conditions and fast processing times. All transactions are carried out through secure channels, and the casino uses advanced encryption technologies to protect user data.\n\n<\/p>\n<br>\n<p>\nWithdrawal methods include bank cards (Visa, Mastercard), e-wallets (Skrill, Neteller), as well as modern solutions like Apple Pay, Google Pay, and cryptocurrencies. This allows every player to choose the most suitable way to receive winnings.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets provide the fastest transfers \u2014 usually within 0\u201324 hours. Bank cards take longer, typically 1\u20133 business days. Cryptocurrency transactions are also quick, usually completed within a few hours.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits vary depending on player status and payment method. The minimum withdrawal amount usually starts at \u20ac20, while maximum limits can reach \u20ac15,000 per transaction for VIP players.\n\n<\/p>\n<br>\n<p>\nRoyal Game guarantees fairness and transparency in all operations and offers 24\/7 support for any payout-related questions.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards: Visa, Mastercard (1\u20133 days)\n\n<\/li>\n            <li>\u2022 \nE-Wallets: Skrill, Neteller (0\u201324 hours)\n\n<\/li>\n            <li>\u2022 \nMobile Payments: Apple Pay, Google Pay (up to 24 hours)\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies: Bitcoin, Ethereum (a few hours)\n\n\n<\/li>\n\t\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallets \u2014 instant to 24 hours\n\n<\/li>\n            <li>\u2022 \nBank cards \u2014 1\u20133 business days\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies \u2014 within a few hours\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount: \u20ac20\n\n<\/li>\n            <li>\u2022 \nMaximum amount: up to \u20ac15,000 (VIP)\n<\/li>\n     \n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, demo mode allows free play, but winnings cannot be withdrawn.\n\n\n"
+                },
+                {
+                    "title": "How is game fairness ensured?",
+                    "answer": "All games use certified RNG (Random Number Generator) technology for fairness.\n\n\n"
+                },
+                {
+                    "title": "Can I set gambling limits?",
+                    "answer": "Yes, the platform supports responsible gaming: you can set deposit and betting limits.\n\n\n"
+                },
+                {
+                    "title": "How fast are verification and withdrawals?",
+                    "answer": "Verification takes up to 24 hours, and withdrawals depend on the method \u2014 from a few hours to 3 days.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/843",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Royal Game"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
